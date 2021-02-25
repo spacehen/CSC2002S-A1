@@ -1,0 +1,103 @@
+commit d87d06514cc80c41cceb9492fb547fe47a0f9a17
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 10:48:17 2020 +0200
+
+    Create BasinSequential Class
+
+commit 0427be71ab72cbe5b69e32c25f72b5873e0b6ed7
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 10:52:35 2020 +0200
+
+    Add timing methods to BasinSequential
+
+
+commit 4697ea62d13b716fa37c01bb0c007e972eb8bab6
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 10:58:25 2020 +0200
+
+    Implement file processing in BasinSequential
+
+
+commit b69fcb95c758ab7bb127a4105347d0a65a753c1e
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 11:10:02 2020 +0200
+
+    Impl. Sequential classification algorithm (BasinSequential)
+
+
+commit aa119e8ebd278b3caa119e86b08f5f61cf4fc386
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 11:03:35 2020 +0200
+
+    Bugfixes for BasinSequential (final)
+
+
+commit 182d4ce7a216379510d61d0bb263d2236694843f 
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 11:02:17 2020 +0200
+
+    Create BasinCompute class
+
+commit d87d06514cc80c41cceb9492fb547fe47a0f9a17 
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 11:15:27 2020 +0200
+
+    Create BasinRecursive class
+
+commit cf72968c8bfcda73ad4847866e41dec5970b366e
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 11:20:23 2020 +0200
+
+    Add timing and file processing to BasinCompute
+
+
+commit 43ab7578c78543a5ad799078dec689279383ab3a
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 11:22:10 2020 +0200
+
+    Add ForkJoinPool and set up invoke() for BasinRecursive class
+
+
+commit 1cceb949d278b3a119e86b08f5f61cfb284fc386
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 11:41:08 2020 +0200
+
+    Bugfixes for BasinRecursive
+
+
+commit eb947ebdfcda73ad486b08f5f61cfb284fc3861b
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 11:52:35 2020 +0200
+
+    Implement RecursiveTask in BasinRecursive
+
+
+commit 61a7ebd278b3caa119e86b08f5f61cfb284fc512
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 11:59:45 2020 +0200
+
+    Add compute() core logic BasinRecursive
+
+
+commit ad486b08f8b9e86b29e86b08f5f61cfba119e86b
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 12:02:15 2020 +0200
+
+    Add fork() join and sequential cutoff (BasinRecursive)
+
+
+commit 9e86b08f5f6caa119e86b08f8f5f61cfba84c386
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 12:05:25 2020 +0200
+
+    BasinRecursive bug fixes 1
+
+
+commit 182d4ce7a21119e86b08232e86b08ff8b9e86b2 (HEAD -> master)
+Author: user10 <10@10.com>
+Date:   Thu Aug 24 12:20:45 2020 +0200
+
+    General bug fixes 2
+
+
+
